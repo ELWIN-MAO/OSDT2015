@@ -1,5 +1,5 @@
 # OSDT2015 开源开发工具大会
-**HelloGCC Workshop 2015**
+**aka. HelloGCC Workshop 2015**
 
 演讲资料参见： https://github.com/hellogcc/OSDT2015
 
